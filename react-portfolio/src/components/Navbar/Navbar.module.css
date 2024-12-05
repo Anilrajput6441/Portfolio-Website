@@ -1,8 +1,6 @@
 @import "../../vars.css";
 
-.text {
-    color: aliceblue;
-}
+
 .navbar {
     position: relative;
     display: flex;
@@ -53,7 +51,7 @@
         
         position: absolute;
         right: 0;
-        margin-right: 10%;
+        margin-right: -10px;
         flex-direction: column;
         align-items: flex-end;
         gap: 11px;
@@ -79,6 +77,11 @@
     .menuOpen {
         display: flex;
         z-index: 1;
+    }
+    .menuBtn {
+        height: 40px;
+        display: flex;
+        /* margin-left: 30%; */
     }
     
 }
