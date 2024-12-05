@@ -1,0 +1,14 @@
+@import "../../vars.css";
+
+.text {
+    color: aliceblue;
+}
+.text a {
+    color: aliceblue;
+}
+.myheroicon {
+    height: 900px;
+    width: 900px;
+    border-radius:900px;
+    margin-left:50%
+}
