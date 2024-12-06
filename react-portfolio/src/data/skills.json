@@ -1,0 +1,54 @@
+[
+    {
+        "title":"HTML",
+        "imageSrc":"skills/HTML.png"
+    },
+    {
+        "title":"CSS",
+        "imageSrc":"skills/Css.png"
+    },
+    {
+        "title":"React",
+        "imageSrc":"skills/React.png"
+    },
+    {
+        "title":"JavaScript",
+        "imageSrc":"skills/js.png"
+    },
+    {
+        "title":"NodeJs",
+        "imageSrc":"skills/nodejs.png"
+    },
+    {
+        "title":"MongoDb",
+        "imageSrc":"skills/MongoDB.png"
+    },
+    {
+        "title":"Devops",
+        "imageSrc":"skills/devopsnew.png"
+    },
+    {
+        "title":"Linux",
+        "imageSrc":"skills/Linux.png"
+    }, {
+        "title":"Git",
+        "imageSrc":"skills/Git.png"
+    }, {
+        "title":"GitHub",
+        "imageSrc":"skills/GitHub.png"
+    }, {
+        "title":"AWS",
+        "imageSrc":"skills/AWS.png"
+    },
+    {
+        "title":"Ansible",
+        "imageSrc":"skills/ANSIBLE.png"
+    }, {
+        "title":"Jenkins",
+        "imageSrc":"skills/Jenkins.png"
+    },
+    {
+        "title":"Terraform",
+        "imageSrc":"skills/Terraform.png"
+    }
+]

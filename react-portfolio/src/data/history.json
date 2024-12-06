@@ -1,0 +1,18 @@
+[
+    {
+        "role":"Full Stack Web Developer",
+        "organisation":"CodeMap",
+        "startDate":"July 10",
+        "endDate":"Sept 20",
+        "experiences":["worked on Backend","Coperations"],
+        "imageSrc":"history/CodeMap.png"
+    },
+    {
+        "role":"Full Stack Web Developer",
+        "organisation":"CodeMap",
+        "startDate":"July 10",
+        "endDate":"Sept 20",
+        "experiences":["worked on Backend","Created the APIs "],
+        "imageSrc":"history/Programmer.png"
+    }
+]
