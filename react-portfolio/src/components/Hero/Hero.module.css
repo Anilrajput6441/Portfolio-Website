@@ -193,3 +193,27 @@
     }
 }
 
+@media screen and (max-width:830px)  {
+    .animatedtext {
+        font-size: 25px;
+        margin-top: 50px;
+        margin-left: 10px;
+        font-weight: 900;
+    }    
+
+    .description {
+        margin-right: 5%;
+        margin-left: 5%;
+        font-size: 23px;
+        font-weight: 700;
+        line-height: 1.6;
+        /* text-indent: 30px; Indents the first line */
+        text-align:justify;
+
+    }
+
+    .content {
+        margin-bottom: -30%;
+       
+    }
+}
