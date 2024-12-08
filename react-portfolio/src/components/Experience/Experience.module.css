@@ -89,6 +89,10 @@
     font-family: var(--font-roboto);
 
 }
+.historyItemDetails:hover {
+    color: #19376d;
+
+}
 .historyItemDetails h3 {
     font-size: 30px;
     font-weight: 500;

@@ -1,0 +1,25 @@
+[
+    {
+        "title":"Project A",
+        "imageSrc":"projects/project.png",
+        "description":"this is a dummy project",
+        "skills":["Reactjs","Tailwind","HTML","JavaScript"],
+        "live":"https://aniltodolist.netlify.app/",
+        "source":"https://github.com/Anilrajput6441/ToDo-List"
+    },
+    {
+        "title":"Project A",
+        "imageSrc":"projects/project.png",
+        "description":"this is a dummy project",
+        "skills":["Reactjs","Tailwind","HTML","JavaScript"],
+        "live":"https://aniltodolist.netlify.app/",
+        "source":"https://github.com/Anilrajput6441/ToDo-List"
+    },
+    {   "title":"Project A",
+        "imageSrc":"projects/project.png",
+        "description":"this is a dummy project",
+        "skills":["Reactjs","Tailwind","HTML","JavaScript"],
+        "live":"https://aniltodolist.netlify.app/",
+        "source":"https://github.com/Anilrajput6441/ToDo-List"
+    }
+]
