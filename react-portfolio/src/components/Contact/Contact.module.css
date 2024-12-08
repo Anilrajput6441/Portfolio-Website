@@ -9,7 +9,7 @@
     padding-top: 10%;
 }
 
-.title{
+.title {
     
     font-family: var(--font-roboto);
     font-size: 8vmin;
@@ -46,6 +46,8 @@
     flex-direction: column;
     gap: 0.5em;
     margin-top: 5%;
+    margin-bottom: 5%;
+    
   }
   
   .up {
