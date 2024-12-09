@@ -1,16 +1,16 @@
 [
     {
-        "title":"Project A",
-        "imageSrc":"projects/project.png",
-        "description":"this is a dummy project",
-        "skills":["Reactjs","Tailwind","HTML","JavaScript"],
-        "live":"https://aniltodolist.netlify.app/",
-        "source":"https://github.com/Anilrajput6441/ToDo-List"
+        "title":"Portfolio",
+        "imageSrc":"projects/portfolio.png",
+        "description":"A portfolio website is not common it fetch data from json files which is dynamic ",
+        "skills":["Reactjs","CSS","HTML","JavaScript"],
+        "live":"https://anilbehera.vercel.app",
+        "source":"https://github.com/Anilrajput6441/Portfolio-Website/tree/main/react-portfolio"
     },
     {
-        "title":"Project A",
-        "imageSrc":"projects/project.png",
-        "description":"this is a dummy project",
+        "title":"Advance To-Do list",
+        "imageSrc":"projects/todo.png",
+        "description":"Advance ToDo list use localstorage with revert,priority,delete,and clear feature",
         "skills":["Reactjs","Tailwind","HTML","JavaScript"],
         "live":"https://aniltodolist.netlify.app/",
         "source":"https://github.com/Anilrajput6441/ToDo-List"
