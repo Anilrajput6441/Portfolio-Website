@@ -15,11 +15,13 @@
         "live":"https://aniltodolist.netlify.app/",
         "source":"https://github.com/Anilrajput6441/ToDo-List"
     },
-    {   "title":"Project A",
-        "imageSrc":"projects/project.png",
-        "description":"this is a dummy project",
-        "skills":["Reactjs","Tailwind","HTML","JavaScript"],
-        "live":"https://aniltodolist.netlify.app/",
-        "source":"https://github.com/Anilrajput6441/ToDo-List"
+    {   "title":"EMS-employee management system",
+        "imageSrc":"projects/EMS.png",
+        "description":"this is a EMS project that helps to manage employee details ",
+        "skills":["JavaScript","CSS","HTML"],
+        "live":"https://anilbeheraemployeemanagement.netlify.app",
+        "source":"https://github.com/Anilrajput6441/Employee-Management-System"
     }
+
+   
 ]
